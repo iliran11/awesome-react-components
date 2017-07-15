@@ -364,6 +364,7 @@
  - [react-joyride](https://github.com/gilbarbara/react-joyride) - Create walkthroughs and guided tours for your ReactJS apps. Now with standalone tooltips!.
  - [material-color-hash](https://github.com/BelkaLab/material-color-hash) - Hash strings to Material UI colors.
  - [react-facebook](https://github.com/CherryProjects/react-facebook) - Facebook components like a Login button, Like, Share, Comments, Page or Embedded Post.
+ - [react-facebook-login-button](https://github.com/iliran11/facebook-login-redux-react) - Facebook component for Login button - Includes a spinner for the login process, Customizable styling, callbacks for different events in Authentication lifectyle and more.
 
 
 
